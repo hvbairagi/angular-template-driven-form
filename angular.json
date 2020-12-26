@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "template-driven-form"
+  "defaultProject": "template-driven-form",
+  "cli": {
+    "analytics": false
+  }
 }
